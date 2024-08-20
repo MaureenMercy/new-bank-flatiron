@@ -1,0 +1,172 @@
+{
+  "transactions": [
+    {
+      "id": "2",
+      "date": "2019-12-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": "3",
+      "date": "2019-12-02",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": "4",
+      "date": "2019-12-04",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
+    },
+    {
+      "id": "5",
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
+    },
+    {
+      "id": "6",
+      "date": "2019-12-06",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
+    },
+    {
+      "id": "7",
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
+    },
+    {
+      "id": "8",
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
+    },
+    {
+      "id": "9",
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": "10",
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
+    },
+    {
+      "id": "11",
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
+    },
+    {
+      "id": "12",
+      "date": "2019-12-17",
+      "description": "Venmo, Pay Roommate for Rent",
+      "category": "Housing",
+      "amount": -975
+    },
+    {
+      "date": "2022-07-09",
+      "description": "Office lunch",
+      "category": "Food",
+      "amount": "2000",
+      "id": "13"
+    },
+    {
+      "date": "2022-07-09",
+      "description": "Office lunch Wednesday",
+      "category": "Food",
+      "amount": "3000",
+      "id": "14"
+    },
+    {
+      "id": "fdef",
+      "date": "2024-08-14",
+      "description": "horror movie",
+      "category": "entertainment",
+      "amount": "78"
+    },
+    {
+      "id": "6ab8",
+      "date": "2024-08-02",
+      "description": "jersey",
+      "category": "clothes",
+      "amount": "2000"
+    },
+    {
+      "id": "1d5b",
+      "date": "2024-08-02",
+      "description": "p2",
+      "category": "medical",
+      "amount": "300"
+    },
+    {
+      "id": "46ff",
+      "date": "2024-08-04",
+      "description": "Printers",
+      "category": "electronics",
+      "amount": "567"
+    },
+    {
+      "id": "6037",
+      "date": "2024-08-04",
+      "description": "meat",
+      "category": "food",
+      "amount": "1000"
+    },
+    {
+      "id": "a5a1",
+      "date": "2024-08-05",
+      "description": "bulb",
+      "category": "household",
+      "amount": "100"
+    },
+    {
+      "id": "228e",
+      "date": "2024-07-30",
+      "description": "black label",
+      "category": "drinks",
+      "amount": "4500"
+    },
+    {
+      "id": "957e",
+      "date": "2024-07-31",
+      "description": "romantic movie",
+      "category": "entertainment",
+      "amount": "55"
+    },
+    {
+      "id": "1422",
+      "date": "2024-08-02",
+      "description": "horror movie",
+      "category": "electronics",
+      "amount": "66"
+    },
+    {
+      "id": "33ef",
+      "date": "2024-08-20",
+      "description": "Amaize flour",
+      "category": "Food",
+      "amount": "250"
+    },
+    {
+      "id": "2c1c",
+      "date": "2024-08-20",
+      "description": "Red Lace Lingerie",
+      "category": "Fashion",
+      "amount": "2500"
+    }
+  ]
+}
